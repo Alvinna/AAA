@@ -51,6 +51,15 @@ Roles >= 8 count as hit
   point to attack plus one TP (otherwise no attack)
 * Heavy attack (2mp) - add one points to attack, hits for 2 hp
 
+## New Combat Rules
+* Ranged weapons (and tracking range, -1 point to success for close/far range)
+* Attack has a dice roll with threshold 8 (player deflect will reduce that roll)
+* No more parry riposte (light/heavy attack 0 1, double damage, light/heavy defense -1 -2)
+* Everyone declares action before each roll
+* Bonuses to roll (based on buffs or debuffs) - strength for melee attack, dex for defense, discovery/int for ranged attack
+* Can reserve your movement for later defense
+* Still 2 movement points total
+
 
 ## Combat system for ship:
 
