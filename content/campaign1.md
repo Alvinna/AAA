@@ -5,7 +5,7 @@ title: "Campaign 1"
 # Story
 # Missions
 ## Mission 1
-A human ship engineer (Siri) on the planet Pygmalion (IOS, majority
+A human ship engineer (Siri) on the planet Temer (IOS, majority
 automaton) reported suspicions of a coworker planning to steal engine tech -
 meet her and investigate
 
@@ -84,7 +84,7 @@ The crew and Herod will help Cordelia prevent a mass destruction event with her
 When asked about the heist, Cordelia will say she doesn't know much, only that
 there was some discord within the black hats when she left ten years ago, and
 she suspects that hard liners from that faction were involved with both the
-heist and NovaLife
+heist and NovaLife, tells crew about the Skeleton Key
 
 ## Mission 3
 NovaLife and heist on backburner, new council mission - putting down
@@ -152,15 +152,16 @@ Galatea will come in to prevent the terraforming efforts and make an ally of the
 Natural Order, while also seeking to kidnap Ashra and extract information from
 her
 
-
-## Mission 7
 Galatea offers transponder change and freedom - releases information
 to galaxy containing evidence of illegal bio experiments and assassinations all
 performed by Presidium interests
 
-### SUB Mission: 
+### Mission 7: 
 Pirate attack and boarding, could happen any time? Maybe if ship is
-disabled in battle
+disabled in battle. OR Capture by pirates while on a planet.
+Hildebrand will get in standoff with crew, SHOULD end with them asking him about Galatea and brokering a truce to not hurt her
+He tells them about his "sister" and their childhood together
+
 
 ## Mission 8
 Captain Hildebrand is stealing Presidium aid to a black hat planet
