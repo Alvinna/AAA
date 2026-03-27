@@ -14,7 +14,7 @@ title: "Characters"
 * In charge of Presidium's dirty work, recruits crew
 
 ## Iris
-* Engineer from Pygmalion, reports coworker for suspected theft
+* Engineer from Temer, reports coworker for suspected theft
 * cafe? nonviolent, brave, civic minded
 
 ## Captain Carrigan
@@ -39,9 +39,13 @@ title: "Characters"
 ### Galatea's "brother" (raised by the same pirate)
 
 ## Cordelia
-### Allakian, tech "priestess" from the black hats, lives in isolation on a human planet and is revered
+### Allakian, tech "priestess" from the black hats, lives in isolation on a human planet and is revered (illegally there, as Terminus has declared itself a sanctuary and is off limits to outsiders)
 
-## ???
-### The ship's AI
+
+## Herod
+### Human, 17, student of Cordelia
+
+## Seraph
+### The ship's AI (ship is called the Angel's Gauntlet)
 ### asks them to recover the Renegade's body, may use it to join combat or pull crew out of the fire
 ### uncomfortable with the secrets learned from Daedalus - decides he wants more out of life than just being a ship
