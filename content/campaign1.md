@@ -137,22 +137,21 @@ himself with the Renegade
 ## Mission 6
 NovaLife mission - Galatea makes herself known
 
+Crew gets a lead on Galatea’s ship heading to an undisturbed planet called Acudura
+
+Chase her down but massive radio disturbance downs both ships
+
+Crew tracks down a beacon and finds a destroyed camp first, with one person there
+
 Female human scientist Ashra with modifications (chromatophores, night vision,
 solar power) believes in the work but does not know about the experiments
 NovaLife has done
 
-Expansionists from the Presidium are about to terraform a new world - crew is
-sent to provide security for Ashra as she tries to preserve life forms and
-useful genetics
+NovaLife had established a camp there with help from the Natural Order, the Order had discovered they were dissecting and poaching local fauna, and they killed each other, someone got away with a live specimen and that triggered the radio disturbance
 
-The Natural Order's extremist members are trying to destroy the terraformers and
-kill Ashra as well, crew should protect her
+Crew find Galatea eventually at her crash site, they all track down radio source and find the Metal Empress, who will communicate with one member of the crew and allow them to leave
 
-Galatea will come in to prevent the terraforming efforts and make an ally of the
-Natural Order, while also seeking to kidnap Ashra and extract information from
-her
-
-Galatea offers transponder change and freedom - releases information
+Galatea offers crew a transponder change and freedom - releases information
 to galaxy containing evidence of illegal bio experiments and assassinations all
 performed by Presidium interests
 
@@ -161,6 +160,7 @@ Pirate attack and boarding, could happen any time? Maybe if ship is
 disabled in battle. OR Capture by pirates while on a planet.
 Hildebrand will get in standoff with crew, SHOULD end with them asking him about Galatea and brokering a truce to not hurt her
 He tells them about his "sister" and their childhood together
+How their captain (Russ Stavrilov) tried to hunt down Galatea’s captors but only managed to get the experiment data she later released
 
 
 ## Mission 8
@@ -180,7 +180,7 @@ riot control machinery on Cap's ship. and they'll have to stop to help him
 
 ## Mission ???
 Whitaker will ask the crew to help lower tensions by investigating
-and interceding with illegal experiments done by rogue NovaLife scientists They
+and interceding with illegal experiments done by rogue NovaLife scientists, and will tell them to capture or kill Dr. Padmasri Leone. They
 will receive a transmission from Whitaker at the end of mission - Galatea
 spoofed his transponder to give them a fake mission and Whitaker thinks they've
 turned, disavows them Galatea will turn off their transponder free of charge as
